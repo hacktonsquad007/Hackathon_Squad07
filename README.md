@@ -67,13 +67,15 @@ A. Instale as dependências:
 
  
 ## 💻 Equipe
-1. Nome : Engenharia de Dados
-2. Nome : Engenharia de Dados
-3. Nome : Engenharia de Dados
-4. Nome : Engenharia de Dados
-5. Nome : Ciência de Dados
-6. Nome : Ciência de Dados
-7. Nome : Ciência de Dados
+1. Silvana Amaral : Engenharia de Dados
+2. Tanige Damasceno : Engenharia de Dados
+3. Isaac Macedo : Engenharia de Dados
+4. Murilo Gromboni : Engenharia de Dados
+5. Laurindo Dumba : Engenharia de Dados
+6. Daniel de Souza : Ciência de Dados
+7. Daniel Filho : Ciência de Dados
+8. Edgar Cabral : Ciência de Dados
+9. Renato Yoshinaga : Ciência de Dados
 
 
 ## 🏆 Nosso Objetivo Final
